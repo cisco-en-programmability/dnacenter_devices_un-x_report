@@ -2,10 +2,11 @@
 # Cisco DNA Center un-X Devices Report
 
 This application will identify all Cisco DNA Center devices that are in one of these 'un-x' states:
-    - un-claimed in the PnP inventory
-    - un-assigned to a site
-    - un-reachable by Cisco DNA Center
-    It will create a report with the hostname and platform id for these devices
+ - un-claimed in the PnP inventory
+ - un-assigned to a site
+ - un-reachable by Cisco DNA Center
+
+It will create a report with the hostname and platform id for these devices
 
 **Cisco Products & Services:**
 

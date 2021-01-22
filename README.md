@@ -15,6 +15,7 @@ This application will identify all Cisco DNA Center devices that are in one of t
 **Tools & Frameworks:**
 
 - Python environment to run the application
+- Cisco DNA Center Python SDK - https://github.com/cisco-en-programmability/dnacentersdk
 
 **Usage**
 
